@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    consumer:
+      bootstrap-servers: 192.168.0.190:9092
+    listener:
+      type: batch
